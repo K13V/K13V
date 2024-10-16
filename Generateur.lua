@@ -44,7 +44,7 @@ game.Players.PlayerAdded:Connect(function(player)
 		ClickDetector.MaxActivationDistance = 0
 	end
 end)
-
+-- ATTENTION : L'attribut "HasGenerator" sert pour le script de génération d'argent, qui doit être écrit dans un script différent de celui ci. 
 ClickDetector.MouseClick:Connect(function(player)
 	if player:GetAttribute("HasGenerator") then
 		warn(player.Name.." possède déjà un générateur.")
