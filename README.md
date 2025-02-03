@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @K13V
-- 👀 I’m interested in LuaScript 
-- 🌱 I’m currently learning Python, Web Dev, Oracle, SQL
+- 👀 I'm interested in PHP/HTML/CSS/Java and Lua Script 
+- 🌱 I’m currently learning Python, PHP, SQL, Lua , (CSS/HTML)
 - 📫 How to reach me : Just don't for the moment
 - 😄 Pronouns: Ka-52
 
